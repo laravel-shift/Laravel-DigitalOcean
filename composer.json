@@ -1,7 +1,20 @@
 {
     "name": "graham-campbell/digitalocean",
     "description": "DigitalOcean Is A DigitalOcean Bridge For Laravel",
-    "keywords": ["laravel", "framework", "digitalocean", "digitalocean-v2", "DigitalOceanV2", "digitalocean bridge", "bridge", "DigitalOcean", "Laravel DigitalOcean", "Laravel-DigitalOcean", "Graham Campbell", "GrahamCampbell"],
+    "keywords": [
+        "laravel",
+        "framework",
+        "digitalocean",
+        "digitalocean-v2",
+        "DigitalOceanV2",
+        "digitalocean bridge",
+        "bridge",
+        "DigitalOcean",
+        "Laravel DigitalOcean",
+        "Laravel-DigitalOcean",
+        "Graham Campbell",
+        "GrahamCampbell"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -15,8 +28,8 @@
         "graham-campbell/manager": "^5.1",
         "guzzlehttp/guzzle": "^7.8.1",
         "guzzlehttp/psr7": "^2.6.2",
-        "illuminate/contracts": "^8.75 || ^9.0 || ^10.0",
-        "illuminate/support": "^8.75 || ^9.0 || ^10.0",
+        "illuminate/contracts": "^8.75 || ^9.0 || ^10.0 || ^11.0",
+        "illuminate/support": "^8.75 || ^9.0 || ^10.0 || ^11.0",
         "toin0u/digitalocean-v2": "4.9.*"
     },
     "require-dev": {
